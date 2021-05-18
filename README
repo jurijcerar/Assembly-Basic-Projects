@@ -1,0 +1,25 @@
+1. ASM_print
+Prints the string thats written in the .data section
+
+2. ASM_for
+Simple for loop that outputs all numbers from 1 to N-1 where N is the input
+
+3. ASM_div
+Prints all numbers from 1 to N/2 (N is the input) which are divisible by 47 using the DIV instruction
+
+4. ASM_min3
+Program that chooses the smallest of the three input numbers
+
+5. ASM_recursion
+Program that calculates the N-th number in the sequence
+f(n) = 1 + f(n-3) + f(n-2), n > 2, f(0) = 12, f(1)=22, f(2) = 45
+N is coded as the number 10
+
+6.  ASM_array
+Program reverses the string that is defined in the .data section
+
+7. ASM_tolower
+Program that changes the input string to all lowercase letters and changes the " " to "_"
+
+
+
